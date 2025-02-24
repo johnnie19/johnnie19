@@ -33,10 +33,10 @@ I have experience working with **Python, SQL, Looker, BigQuery**, and **Google C
 
 ## 🛠️ Tech Stack
 - **Programming Languages**: Python, R, SQL  
-- **Data Analysis**: Pandas, NumPy, Scikit-learn  
+- **Data Analysis**: Pandas, NumPy, Scikit-Learn  
 - **Visualization**: Looker, Matplotlib, Seaborn, Power BI, Cognos Analytics
 - **Cloud & Databases**: Google BigQuery, MySQL  
-- **Machine Learning**: Scikit-learn 
+- **Machine Learning**: Scikit-Learn 
 
 ---
 
