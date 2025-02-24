@@ -41,7 +41,7 @@ I have experience working with **Python, SQL, Looker, BigQuery**, and **Google C
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/john-biju-varghese-014835230/)](#)  
+- **LinkedIn**: (https://www.linkedin.com/in/john-biju-varghese-014835230/)](LinkedIn)  
 - **Email**: [john.bijuv@gmail.com](john.bijuv@gmail.com)  
 
 Let's connect and discuss **data science, business intelligence, and AI innovations**! 🚀
